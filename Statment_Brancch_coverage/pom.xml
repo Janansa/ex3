@@ -5,11 +5,11 @@
   <modelVersion>4.0.0</modelVersion>
 
  
-  <groupId>Traingle_Casification_class_1</groupId>
-  <artifactId>Traingle_Casification_class_1</artifactId>
+  <groupId>Statment_Brancch_coverage</groupId>
+  <artifactId>Statment_Brancch_coverage</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
-  <name>Traingle_Casification_class_1</name>
+  <name>Statment_Brancch_coverage</name>
   
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
